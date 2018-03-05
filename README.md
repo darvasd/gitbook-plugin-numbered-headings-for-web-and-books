@@ -22,7 +22,7 @@ Running out of things to say.
 
 ```js
 {
-  "plugins": ["numbered-headings"]
+  "plugins": ["chapter-headings"]
 }
 ```
 
